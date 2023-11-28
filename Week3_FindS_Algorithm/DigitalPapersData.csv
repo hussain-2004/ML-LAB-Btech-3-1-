@@ -1,0 +1,6 @@
+Example,Citations,Size,inLibrary,Price,Editions,Buy
+1,Some,Small,No,Affordable,Many,No
+2,Many,Big,No,Expensive,One,Yes
+3,Some,Big,Always,Expensive,Few,No
+4,Many,Medium,No,Expensive,Many,Yes
+5,Many,Small,No,Affordable,Many,Yes
